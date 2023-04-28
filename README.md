@@ -1,4 +1,4 @@
-# Hand written Letters Classifier
+# Hand-written Letters Classifier
 This app builds a Convolutional Neuron Network using tensorflow keras to classify 26 uppercase characters in English alphabet. The dataset is provided by Kaggle in this link:  and this app use gradio as user interface.
 
 ## Display of the app
