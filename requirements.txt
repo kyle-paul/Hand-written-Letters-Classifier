@@ -1,0 +1,7 @@
+numpy
+pandas
+gradio
+tensorflow
+matplotlib
+seaborn
+warnings
